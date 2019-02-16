@@ -1,0 +1,4 @@
+try{
+}catch(Exceptions e){
+System.out.println("exeptions founded");
+}
